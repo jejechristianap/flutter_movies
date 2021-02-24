@@ -84,7 +84,7 @@ class Result {
 
   String get title => _title;
 
-  double get vote_average => _vote_average;
+  dynamic get vote_average => _vote_average;
 
   bool get video => _video;
 
